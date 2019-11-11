@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jqxismygit/babel-plugin-jsx-wapper"
+    "url": "https://github.com/jqxismygit/react-auto-scrollview"
   },
   "devDependencies": {
     "father-build": "^1.12.0"
