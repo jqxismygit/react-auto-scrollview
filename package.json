@@ -1,0 +1,11 @@
+{
+  "name": "react-auto-scrollview",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "start": "lerna run start"
+  }
+}
