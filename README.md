@@ -5,7 +5,7 @@
 ## Features
 
 - 📦 **使用极其简单**
-- 🎉 **效率比较高**
+- 🎉 **动画效率比较高(硬件加速)**
 
 ![image](https://github.com/jqxismygit/react-auto-scrollview/blob/master/screen.gif)
 
@@ -41,6 +41,6 @@ import AutoScrollView from "react-auto-scrollview";
 
 参数名|Required|defalutValue
 |:-|:-:|-:|
-height|true|null
+height|true|undefine
 speed|false|4
 fps|false|30
